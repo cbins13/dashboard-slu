@@ -1,0 +1,6 @@
+[submodule "dashboard-backend"]
+	path = dashboard-backend
+	url = ./dashboard-backend
+[submodule "dashboard-frontend"]
+	path = dashboard-frontend
+	url = ./dashboard-frontend
